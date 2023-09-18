@@ -9,11 +9,11 @@ A basic HTML webpage featuring name, ordered list, and unordered list.
 
 Installation is easy!  Simply copy and paste the following URL into your favorite browser:
 
-https://argounova.github.io/initial-portfolio/
+https://argounova.github.io/csc200-mod5-ct/
 
 ## Usage
 
-Click on any of the project images to be taken to the live site or any of the links to get in contact with me.
+Click on any of the navigation links to be taken to the corresponding section or any of the social links to get in contact with me.
 
 ![portfolio screenshot](Assets/portfolio-screenshot.png)
 
